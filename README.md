@@ -17,5 +17,6 @@
 </a>
 
 <br />
+<br />
 
-Hello I am Umang Chamaria, an Android Engineer with 6+ years of experience in developing lightweight and scalable SDKs, having more than 200 million Monthly Active Users. Currently working at <a target="_blank" href="https://moengage.com">MoEngage Inc</a> as Lead Android Engineer
+Hello I am Umang Chamaria, an Android Engineer with 6+ years of experience in developing lightweight and scalable SDKs and Applications, having more than 200 million Monthly Active Users. Currently working at <a target="_blank" href="https://moengage.com">MoEngage Inc</a> as Lead Android Engineer
