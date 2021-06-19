@@ -19,5 +19,13 @@
 <br />
 <br />
 
-Android Engineer with 6+ years of experience in developing lightweight and scalable SDKs and Applications, having 
-more than 250 million Monthly Active Users. Currently working at <a target="_blank" href="https://moengage.com">MoEngage Inc</a> as Lead Android Engineer.
+Android Engineer with 7+ years of experience in developing lightweight and scalable SDKs and Applications. Over the 
+years have worked across various domains like Mobile Device Management, Security, Analytics, Marketing 
+Automation/Customer Engagement, Angent Banking, Payments.
+
+Currently leading Prouct development for Android at <a target="_blank" href="https://moengage.com">MoEngage Inc</a>, 
+where I build and ship SDKs for Analytics, Push Notification via various services like Firebase, Huawei Messaging 
+Services, Mi Push Service, InApp Messaging, Real-Time Messaging, Geofencing, etc. These SDK have a combined Monthly 
+Active User base of more than 250 million. 
+
+Apart from Native Android have shipped SDKs for frameworks like Cordova, React-Native, Flutter, Unity, Xamarin.
