@@ -28,4 +28,5 @@ where I build and ship SDKs for Analytics, Push Notification via various service
 Services, Mi Push Service, InApp Messaging, Real-Time Messaging, Geofencing, etc. These SDK have a combined Monthly 
 Active User base of more than 250 million. 
 
-Apart from Native Android have shipped SDKs for frameworks like Cordova, React-Native, Flutter, Unity, Xamarin.
+Along with Native Android have experience in building and shipping SDKs for cross platform framework like 
+React-Native, Flutter, Cordova, Unity, Xamarin.
