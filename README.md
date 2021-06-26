@@ -19,14 +19,10 @@
 <br />
 <br />
 
-Android Engineer with 7+ years of experience in developing lightweight and scalable SDKs and Applications. Over the 
-years have worked across various domains like Mobile Device Management, Security, Analytics, Marketing 
-Automation/Customer Engagement, Angent Banking, Payments.
+Android Engineer with 7+ years of experience in developing lightweight and scalable SDKs and Applications. Over the years have worked across various domains like Mobile Device Management, Security, Analytics, Marketing Automation/Customer Engagement, Agent Banking, Payments
 
-Currently leading Prouct development for Android at <a target="_blank" href="https://moengage.com">MoEngage Inc</a>, 
-where I build and ship SDKs for Analytics, Push Notification via various services like Firebase, Huawei Messaging 
-Services, Mi Push Service, InApp Messaging, Real-Time Messaging, Geofencing, etc. These SDK have a combined Monthly 
-Active User base of more than 250 million. 
+Currently leading Product Development for Android at <a target="_blank" href="https://moengage.com">MoEngage Inc</a>,
+where I build and ship SDKs for Analytics, Push Notification via various services like Firebase, Huawei Messaging Services, Mi Push Service, InApp Messaging, Real-Time Messaging, Geofencing, etc. These SDKs have a combined Monthly Active User base of more than 250 million.
 
 Along with Native Android have experience in building and shipping SDKs for cross platform framework like 
 React-Native, Flutter, Cordova, Unity, Xamarin.
