@@ -5,24 +5,20 @@
 </a>
 
 <a href="https://www.linkedin.com/in/umangchamaria/">
-  <img align="left" alt="Umang's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Umang's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://umang91.medium.com/">
   <img align="left" alt="Umang's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />
 </a>
 
-<a href="https://twitter.com/umang_chamaria">
+<a href="https://twitter.com/umang_91">
   <img align="left" alt="Umang Chamaria | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <br />
 <br />
 
-Android Engineer with 7+ years of experience in developing lightweight and scalable SDKs and Applications. Over the years have worked across various domains like Mobile Device Management, Security, Analytics, Marketing Automation/Customer Engagement, Agent Banking, Payments
+Mobile Engineer with 8+ years of experience in developing lightweight yet feature-rich, scalable SDKs and applications. Over the years I have worked across various domains like <b>Mobile Device Management, Security, Analytics, Marketing Automation, Customer Engagement, Agent Banking, Payments,</b> etc. Experienced in building Application/SDKs on Native as well as cross platform frameworks like React-Native, Flutter, Unity, Cordova, Ionic.
 
-Currently leading Product Development for Android at <a target="_blank" href="https://moengage.com">MoEngage Inc</a>,
-where I build and ship SDKs for Analytics, Push Notification via various services like Firebase, Huawei Messaging Services, Mi Push Service, InApp Messaging, Real-Time Messaging, Geofencing, etc. These SDKs have a combined Monthly Active User base of more than 250 million.
-
-Along with Native Android have experience in building and shipping SDKs for cross platform framework like 
-React-Native, Flutter, Cordova, Unity, Xamarin.
+Currently leading Product Development for the Mobile Team at <a target="_blank" href="https://moengage.com">MoEngage Inc</a>, responsible for building and shipping Native(Android and iOS) and Cross Platform SDKs, having a combined Monthly active user base of ~1 billion.
